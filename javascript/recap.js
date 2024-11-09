@@ -20,8 +20,8 @@
 // raed on loops
 
 // DOM is used by javascript to modify elements
-//this construction is done in the browser
-//is for changing docs structure, styling,etc
+// this construction is done in the browser
+// is for changing docs structure, styling,etc
 //DOM syntax
 //mothods in dom 1. document
 //eg. selecting Element by ID

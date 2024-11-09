@@ -20,6 +20,6 @@
 //     this.publicationYear = publicationYear;
     
 //   }
-let book = [('Who Is Jesus Christ?", "Saint Timothy", 1957),(("1st Timothy 3:16", "Ern Arthur", 1813))]
-    console.log([0][1]);
+let book = ('Who Is Jesus Christ?", "Saint Timothy", 1957),(("1st Timothy 3:16", "Ern Arthur", 1813));
+    console.log[];
     

@@ -10,5 +10,5 @@ console.log(student)//this will print the complete details of the students
 //creating an empty array
 let students=[]
  
-students.push([(name:"Pili Eliet")]
+students.push([('name': "Pili Eliet")];
 console.log(students);
