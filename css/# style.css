@@ -1,3 +1,7 @@
+
+#h2{
+    background-color: red;
+}
 p{
     color: blue;
     background-color: yellow;
@@ -15,3 +19,11 @@ body {
     background-repeat: no-repeat; /* Prevent image repetition */
     background-position: center; /* Center the image */
 }
+/* in css when selecting an id to style use the  "#"  */
+/* in css when selecting a class to style use the  "."  */
+#email{
+    color: brown;
+}
+//adding a class or id, create it here and then reference it in the html fieldset
+eg. title. classlist.add('titleClass')
+
